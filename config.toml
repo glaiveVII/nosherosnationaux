@@ -4,13 +4,14 @@ title = "Nos Héros Nationaux"
 paginate = 5
 buildFuture = true
 
+
 [[menu.social]]
   name = "GitHub"
   title = "fab fa-github-square"
   url = "https://github.com/glaiveVII/nosherosnationaux"
 
 [[menu.main]]
-  name = "Talks"
+ name = "Talks"
   title = "Talks"
   url = "/talks/"
 
@@ -24,10 +25,6 @@ buildFuture = true
   title = "Archives"
   url = "/archives/"
 
-[params]
-  author = "Baron Schwartz"
-  twitter = "xaprb"
-  classes = []
 
 [outputs]
   home = ["HTML", "JSON", "RSS"]
