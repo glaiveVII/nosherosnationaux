@@ -76,8 +76,6 @@
 						{{- range .Site.Menus.social }}
 						<a class="link f5 ml2 dim near-white" href="{{ .URL }}"><i class="{{ .Title }}"></i></a>
 						{{- end }}
-						<a class="link f5 ml2 dim near-white fas fa-rss-square" href="{{ "index.xml" | absURL }}" title="RSS Feed"></a>
-						<a class="link f5 ml2 dim near-white fas fa-search" href="{{ "search/" | absURL }}" role="search" title="Search"></a>
 					</div>
 				</nav>
 
@@ -130,12 +128,13 @@
 		{{ block "pagination" . }}{{ end }}
 		{{ block "footer" . }}
 		<footer class="hide-print sans-serif f6 fw1 bg-black near-white bottom-0 w-100 pa3" role="contentinfo">
-			<p class="w-50 fr tr">
-			<a class="no-underline near-white" href="https://github.com/glaiveVII/nosherosnationaux"><img class="dib" title="Made with Hugo and Story" alt="Story logo" src="{{ "img/story-logo-white.svg" | absURL }}" style="width: 1.5rem; height: 1.5rem" /></a>
-			</p>
-			<p class="w-50 near-white">
-				&copy; {{ now.Format "2006" }} {{ with .Site.Params.author }}{{ . }}{{ end }}
-			</p>
+      <div class="footer">
+
+
+        <h3 style="text-align: center;"> Liberté, Égalité, Fraternité </h3>
+
+
+      </div>
 		</footer>
 		{{ end }}
 	{{ template "_internal/google_analytics_async.html" . }}

@@ -10,25 +10,3 @@ buildFuture = true
   title = "fab fa-github-square"
   url = "https://github.com/glaiveVII/nosherosnationaux"
 
-[[menu.main]]
- name = "Talks"
-  title = "Talks"
-  url = "/talks/"
-
-[[menu.main]]
-  name = "Slides"
-  title = "Slides"
-  url = "/slides/"
-
-[[menu.main]]
-  name = "Archives"
-  title = "Archives"
-  url = "/archives/"
-
-
-[outputs]
-  home = ["HTML", "JSON", "RSS"]
-  page = ["HTML"]
-  section = ["HTML", "RSS"]
-  taxonomy = ["HTML", "RSS"]
-  taxonomyTerm = ["HTML", "RSS"]
