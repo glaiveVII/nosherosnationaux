@@ -1,13 +1,13 @@
 # Site settings
-baseurl = "https://example.com/"
-title = "Hugo Story Theme"
+baseurl = "http://nosherosnationaux.com"
+title = "Nos Héros Nationaux"
 paginate = 5
 buildFuture = true
 
 [[menu.social]]
   name = "GitHub"
   title = "fab fa-github-square"
-  url = "https://github.com/xaprb/story/"
+  url = "https://github.com/glaiveVII/nosherosnationaux"
 
 [[menu.main]]
   name = "Talks"
