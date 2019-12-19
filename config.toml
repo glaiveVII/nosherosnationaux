@@ -10,3 +10,15 @@ buildFuture = true
   title = "fab fa-github-square"
   url = "https://github.com/glaiveVII/nosherosnationaux"
 
+############################## navigation ###############################
+[menu]
+
+  [[menu.main]]
+  name = "About"
+  URL = "about"
+  weight = 1
+
+  [[menu.main]]
+  name = "Contact"
+  URL = "contact"
+  weight = 2
