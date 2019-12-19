@@ -1,0 +1,183 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Nos Héros Nationaux </title>
+		<link>http://nosherosnationaux.com/</link>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<author></author>
+		<rights>Copyright (c) 2018</rights>
+		<updated>2018-09-03 00:00:00 &#43;0000 UTC</updated>
+		
+		<item>
+			<title>About</title>
+			<link>http://nosherosnationaux.com/about/</link>
+			<pubDate>Thu, 17 Oct 2019 11:22:16 &#43;0600</pubDate>
+			<author></author>
+			<guid>http://nosherosnationaux.com/about/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://nosherosnationaux.com/img/default-header-img.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description></description>
+		</item>
+		
+		<item>
+			<title>Contact</title>
+			<link>http://nosherosnationaux.com/contact/</link>
+			<pubDate>Thu, 17 Oct 2019 11:22:16 &#43;0600</pubDate>
+			<author></author>
+			<guid>http://nosherosnationaux.com/contact/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://nosherosnationaux.com/img/default-header-img.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description></description>
+		</item>
+		
+		<item>
+			<title>The Story Hugo Theme</title>
+			<link>http://nosherosnationaux.com/about-story/</link>
+			<pubDate>Mon, 03 Sep 2018 00:00:00 UTC</pubDate>
+			<author></author>
+			<guid>http://nosherosnationaux.com/about-story/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://nosherosnationaux.com/img/unsplash-photos-o-ubWHV29Uk.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>&lt;p&gt;Story is a beautiful Hugo theme.  &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; is a static website
+generator, which builds websites by rendering
+&lt;a href=&#34;https://commonmark.org/help/&#34;&gt;Markdown&lt;/a&gt; content into templates from themes like
+Story. The resulting site is fast, secure, and easy to build and maintain.&lt;/p&gt;
+
+&lt;p&gt;Story is a responsive theme that supports blogs, with many extra features such
+as presentations, math and music typesetting, and search.  The Story design
+philosophy prioritizes simplicity and elegance, so it can be sophisticated
+and powerful at the same time.&lt;/p&gt;
+
+&lt;p&gt;Story is easy to use, making it a great way to share your writing and speaking
+with the world.  Story is targeted to technical writers and speakers: people
+such as software engineers and open source developers, who want a website for
+their technical work and side projects&amp;mdash;for example, those who write and speak
+about software engineering.&lt;/p&gt;
+
+&lt;p&gt;Story is deceptively simple, while offering the features you need:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Beautiful, responsive typography for long-form content on screen and in print, including blogs and single pages.&lt;/li&gt;
+&lt;li&gt;Support for Remark in-browser slideshows, written in simple Markdown.&lt;/li&gt;
+&lt;li&gt;LaTeX math equation typesetting.&lt;/li&gt;
+&lt;li&gt;Sheet music rendering from ABC music notation.&lt;/li&gt;
+&lt;li&gt;Built-in site search.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Story has many more features than this.
+Explore Story and learn all the ways it can help you showcase your work!&lt;/p&gt;
+
+&lt;p&gt;Read next: &lt;a href=&#34;http://nosherosnationaux.com/theme-features&#34;&gt;Story&amp;rsquo;s features&lt;/a&gt;.&lt;/p&gt;</description>
+		</item>
+		
+		<item>
+			<title>Story&#39;s Author Profiles</title>
+			<link>http://nosherosnationaux.com/author-profiles/</link>
+			<pubDate>Wed, 29 Aug 2018 00:00:00 UTC</pubDate>
+			<author></author>
+			<guid>http://nosherosnationaux.com/author-profiles/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://nosherosnationaux.com/img/unsplash-photos-TzMi5Ov7QeM.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>&lt;p&gt;Story supports author profiles, so you can highlight your bio.
+It&amp;rsquo;s possible to set this globally for the entire site, or individually for each
+piece of content. Or you can set a global default and override it on individual
+pieces of content.
+Scroll to the bottom of any page on this site to see how author profiles are
+styled.&lt;/p&gt;
+
+&lt;p&gt;Story&amp;rsquo;s author profile system is a slightly simplified (incomplete)
+implementation of the ideas laid out in &lt;a href=&#34;https://www.netlify.com/blog/2018/07/24/hugo-tips-how-to-create-author-pages/&#34;&gt;Netlify&amp;rsquo;s how-to
+document&lt;/a&gt;.
+It allows only one author per piece of content, and doesn&amp;rsquo;t require Hugo to
+create the authors taxonomy.  Because it&amp;rsquo;s incomplete, it&amp;rsquo;s a) missing a few of the
+features Netlify describes, and b) easier to set up.&lt;/p&gt;
+
+&lt;h3 id=&#34;global-and-per-content-authors&#34;&gt;Global And Per-Content Authors&lt;/h3&gt;
+
+&lt;p&gt;If you want to specify an author in the front matter of each post, it&amp;rsquo;s
+simply specified like this (YAML example):&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;---
+author: &amp;quot;Elvis Presley&amp;quot;
+---
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;If you want to set a global author parameter for the entire site, which will serve as
+the default in case any pieces of content don&amp;rsquo;t specify their own, use your
+config file&amp;rsquo;s &lt;code&gt;params&lt;/code&gt; array:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;params:
+   author: &amp;quot;Baron Schwartz&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;That&amp;rsquo;s exactly what this sample site you&amp;rsquo;re reading right now does: Baron is the
+author by default, but Elvis is the author of &lt;em&gt;this&lt;/em&gt; content you&amp;rsquo;re reading now.&lt;/p&gt;
+
+&lt;h3 id=&#34;creating-author-profiles&#34;&gt;Creating Author Profiles&lt;/h3&gt;
+
+&lt;p&gt;To create author profiles, you need to create the author hierarchy under
+&lt;code&gt;content&lt;/code&gt;, and a slugified directory for each author. Then, place an &lt;code&gt;_index.md&lt;/code&gt;
+file into each of those directories, and give it the content needed to describe
+the author.&lt;/p&gt;
+
+&lt;p&gt;For example:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;└── content/
+    └── authors/
+        ├── elvis-presley/
+        │   └── _index.md
+        ├── aretha-franklin/
+        │   └── _index.md
+        └── stevie-wonder/
+            └── _index.md
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;You can put any content you want in the file, but Story has CSS to nicely format
+a square image followed by a paragraph of text. This page you&amp;rsquo;re viewing right
+now has &amp;ldquo;Elvis Presley&amp;rdquo; as its author, and the content of
+&lt;code&gt;content/authors/elvis-presley/_index.md&lt;/code&gt; is:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;---
+---
+![Elvis](/img/elvis.jpg)
+
+Elvis Aaron Presley (January 8, 1935 – August 16, 1977) was an American singer
+and actor. Regarded as one of the most significant cultural icons of the 20th
+century, he is often referred to as the &amp;quot;King of Rock and Roll&amp;quot; or simply &amp;quot;the
+King&amp;quot;.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;global-fallback-content&#34;&gt;Global Fallback Content&lt;/h3&gt;
+
+&lt;p&gt;Even if you don&amp;rsquo;t have an author directory and a specific author&amp;rsquo;s file as
+described above, you can create content that will serve as a fallback across the
+whole site. If Story doesn&amp;rsquo;t find a specific author&amp;rsquo;s profile page, it&amp;rsquo;ll look
+for the default &lt;code&gt;_index.md&lt;/code&gt; content for the section it&amp;rsquo;s currently rendering.
+The top-level default for the whole site is &lt;code&gt;content/_index.md&lt;/code&gt;, which this demo
+site uses to provide Baron Schwartz&amp;rsquo;s author information. This information will
+appear on all pages &lt;em&gt;other than&lt;/em&gt; the current page, which is authored by Elvis
+Presley. This fallback information from &lt;code&gt;content/_index.md&lt;/code&gt; looks like the
+following:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;[![Baron Schwartz](/img/baron-square.jpg)](https://www.xaprb.com)
+
+Baron Schwartz is the founder and CTO of [VividCortex](https://vividcortex.com), author of
+several books, and creator of various open-source software. He writes about topics
+such as technology, entrepreneurship, and fitness. [More about
+Baron](https://www.xaprb.com/).
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This content is a (non-author-specific) fallback for the entire site.
+You can see it on all the other pages of this site.&lt;/p&gt;
+
+&lt;p&gt;Read next: &lt;a href=&#34;http://nosherosnationaux.com/figures/&#34;&gt;Story&amp;rsquo;s figures, captions, and tables&lt;/a&gt;.&lt;/p&gt;</description>
+		</item>
+		
+		<item>
+			<title>Archives</title>
+			<link>http://nosherosnationaux.com/archives/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+			<author></author>
+			<guid>http://nosherosnationaux.com/archives/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://nosherosnationaux.com/img/default-header-img.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description></description>
+		</item>
+		
+	</channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demo on Nos Héros Nationaux</title>
+    <link>http://nosherosnationaux.com/categories/demo/</link>
+    <description>Recent content in Demo on Nos Héros Nationaux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 03 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://nosherosnationaux.com/categories/demo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Story Hugo Theme</title>
+      <link>http://nosherosnationaux.com/about-story/</link>
+      <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://nosherosnationaux.com/about-story/</guid>
+      <description>&lt;p&gt;Story is a beautiful Hugo theme.  &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; is a static website
+generator, which builds websites by rendering
+&lt;a href=&#34;https://commonmark.org/help/&#34;&gt;Markdown&lt;/a&gt; content into templates from themes like
+Story. The resulting site is fast, secure, and easy to build and maintain.&lt;/p&gt;
+
+&lt;p&gt;Story is a responsive theme that supports blogs, with many extra features such
+as presentations, math and music typesetting, and search.  The Story design
+philosophy prioritizes simplicity and elegance, so it can be sophisticated
+and powerful at the same time.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Story&#39;s Author Profiles</title>
+      <link>http://nosherosnationaux.com/author-profiles/</link>
+      <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://nosherosnationaux.com/author-profiles/</guid>
+      <description>&lt;p&gt;Story supports author profiles, so you can highlight your bio.
+It&amp;rsquo;s possible to set this globally for the entire site, or individually for each
+piece of content. Or you can set a global default and override it on individual
+pieces of content.
+Scroll to the bottom of any page on this site to see how author profiles are
+styled.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
